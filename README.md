@@ -187,6 +187,26 @@ text,label
 "This is human-written text...",1
 ```
 
+## Citation
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{rouhizadeh2026detectability,
+  title   = {The detectability paradox: bilingual medical report generation
+             with open-weight models and the limits of human oversight},
+  author  = {Rouhizadeh, Hossein and Sandralegar, Abiram and Yazdani, Anthony
+             and Feng, Weibo and Schreier, Oren and Ahn-Kim, Yonnou and
+             Sirbal, Assiya and Pirelli, Valentino and Yang, Rui and
+             Sveikata, Lukas and Tessitore, Elena and Liu, Nan and
+             Bijlenga, Philippe and Teodoro, Douglas},
+  journal = {Journal of the American Medical Informatics Association},
+  year    = {2026},
+  note    = {Advance article, ocag070},
+  doi     = {10.1093/jamia/ocag070},
+  publisher = {Oxford University Press}
+}
+```
 
 ## Contact
 For questions or inquiries, please contact us at _hossein.rouhizadeh@unige.ch_.
